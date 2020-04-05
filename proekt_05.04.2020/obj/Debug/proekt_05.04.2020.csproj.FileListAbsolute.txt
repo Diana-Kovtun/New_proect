@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Documents\proekt_05.04.2020\bin\Debug\proekt_05.04.2020.exe.config
+C:\Users\LENOVO\Documents\proekt_05.04.2020\bin\Debug\proekt_05.04.2020.exe
+C:\Users\LENOVO\Documents\proekt_05.04.2020\bin\Debug\proekt_05.04.2020.pdb
+C:\Users\LENOVO\Documents\proekt_05.04.2020\obj\Debug\proekt_05.04.2020.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\proekt_05.04.2020\obj\Debug\proekt_05._04._2020.Form1.resources
+C:\Users\LENOVO\Documents\proekt_05.04.2020\obj\Debug\proekt_05._04._2020.Form2.resources
+C:\Users\LENOVO\Documents\proekt_05.04.2020\obj\Debug\proekt_05._04._2020.Form3.resources
+C:\Users\LENOVO\Documents\proekt_05.04.2020\obj\Debug\proekt_05._04._2020.Form4.resources
+C:\Users\LENOVO\Documents\proekt_05.04.2020\obj\Debug\proekt_05._04._2020.Properties.Resources.resources
+C:\Users\LENOVO\Documents\proekt_05.04.2020\obj\Debug\proekt_05.04.2020.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\proekt_05.04.2020\obj\Debug\proekt_05.04.2020.exe
+C:\Users\LENOVO\Documents\proekt_05.04.2020\obj\Debug\proekt_05.04.2020.pdb
+C:\Users\LENOVO\Documents\proekt_05.04.2020\obj\Debug\proekt_05._04._2020.Form5.resources
